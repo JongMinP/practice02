@@ -17,7 +17,6 @@ public class Prob2 {
 		
 		System.out.println("평균은 " + Arrays.stream(number).average().orElse(0.0) + "입니다.");
 		
-		
 		scanner.close();
 		
 	
